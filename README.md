@@ -244,3 +244,5 @@ This particular algorithm employs the use of backtracking, one of the more commo
 
 ## Running Tests
 * To run the tests, enter `c++ --std=c++17 tests/test_sudoku_suite.cpp` and then run the executable produced.
+#   S u d o k u - S o l v e r  
+ 
